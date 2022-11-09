@@ -1,0 +1,49 @@
+body{
+ 
+    margin-left: 55px;
+    margin-right: 55px;
+}
+.size{
+    font-size: 27px;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;    
+    font-weight: bolder;
+    text-shadow: 1px 2px 2px red;
+    
+}
+
+.input-group{
+    border: 2px;
+    border-style: groove;
+    border-radius: 50px;
+    border-color: red;
+   
+        
+}
+.border{
+    border:2px;
+    border-style:groove;
+    border-radius: 50px;
+    color: blue;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px red;
+    
+}
+.form-control{
+    border-radius: 50px;
+    border-color: blue;
+    border: 2px;
+    border-style: double;
+    
+}
+.btn2{
+    border-radius: 50px;
+    border: 2px;
+    border-style: double;
+    background-color: orange;
+    text-shadow: 1px 1px 4px red;
+}
+.back{
+    background-image: url("img/ilt.jpg");
+}
